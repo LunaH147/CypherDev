@@ -1,0 +1,56 @@
+body {
+  background-color: rgb(47, 47, 48);
+  margin: 0px;
+}
+
+h1 {
+  color: white;
+}
+.blackbox {
+  height: 1000px;
+  width: 500px;
+  background-color: black;
+  color: white;
+  padding: 10px;
+  margin-left: 40px;
+  margin-right: 0px;
+  margin-bottom: 50px;
+}
+
+.p1 {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.p2 {
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.image-over-text {
+  height: 400px;
+  width: 400px;
+  margin: 50px;
+  position: relative;
+}
+
+img {
+  height: 400px;
+  width: 400px;
+}
+
+.image-text {
+  position: absolute;
+  align-items: center;
+  color: black;
+  margin-top: 180px;
+  margin-left: 80px;
+}
+
+.blackbox2 {
+  background-color: black;
+  height: 500px;
+  width: 200px;
+  margin-left: 500px;
+  margin-top: 10px;
+}
